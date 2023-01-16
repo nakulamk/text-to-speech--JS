@@ -38,3 +38,5 @@ function stopText() {
   speechSynthesis.resume();
   speechSynthesis.cancel();
 }
+
+//  this as the comments for better understanding of the code
